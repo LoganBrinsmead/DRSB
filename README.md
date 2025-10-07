@@ -6,6 +6,6 @@ To use:
 
 1. Start a virtual environment
 2. Install PIL
-3. $ python3 DRSB.py image.py --original
+3. $ python3 DRSB.py image.png --original
 
 optional argument --original retains the original size of the image while --small will resize it. 
