@@ -1,6 +1,3 @@
-# Future updates: "even smaller" optional argument that resizes the image even smaller than current --small argument
-#                 "usage" and help argument that shows how to use script
-
 import argparse
 import os
 from PIL import Image, ImageDraw
